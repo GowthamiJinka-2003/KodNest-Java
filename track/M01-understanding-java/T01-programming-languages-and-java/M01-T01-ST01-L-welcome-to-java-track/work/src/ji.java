@@ -1,4 +1,4 @@
-public class od {
+public class ji {
     public static void main (String[] args) {
         int number = 14;
         if (number % 2 == 0) {
