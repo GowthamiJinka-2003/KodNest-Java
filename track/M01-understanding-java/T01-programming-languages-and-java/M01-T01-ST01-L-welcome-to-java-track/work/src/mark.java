@@ -11,6 +11,6 @@ public class mark {
             }
             System.out.println("Practice Day: " + i);
         }
-    }        
+        }        
     }
 }
